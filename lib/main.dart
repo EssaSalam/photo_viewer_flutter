@@ -307,7 +307,7 @@ class _DefaultInteractiveImageState extends State<DefaultInteractiveImage> {
                       ),
                     ],
                   ),
-                )
+                ),
               ],
             ),
           ),
